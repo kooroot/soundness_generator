@@ -28,12 +28,12 @@ wget https://raw.githubusercontent.com/kooroot/soundness_generator/refs/heads/ma
 
 2. 실행 권한을 부여합니다:
 ```bash
-chmod +x soundness_setup.sh
+chmod +x soundness.sh
 ```
 
 3. 스크립트를 실행합니다:
 ```bash
-./soundness_setup.sh
+./soundness.sh
 ```
 
 ### 수동 설치
