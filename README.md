@@ -71,9 +71,14 @@ soundness-cli list-keys
 soundness-cli list-keys
 ```
 
-2. Discord의 `testnet-access` 채널에서 다음 명령을 사용하여 액세스를 요청합니다:
+2. Discord의 `soundness-cockpit` 채널에서 다음 명령을 사용하여 액세스를 요청합니다:
 ```
-!access <base64-encoded-public-key>
+/access 생성된 public-key
+```
+
+3. Discord의 `soundness-cockpit` 채널에서 다음 명령을 사용하여 확인합니다.:
+```
+/info
 ```
 
 ## 문제 해결
