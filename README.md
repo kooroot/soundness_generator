@@ -23,7 +23,7 @@
 
 1. 스크립트를 다운로드합니다:
 ```bash
-curl -sSL https://raw.githubusercontent.com/yourusername/soundness-setup/main/soundness_setup.sh -o soundness_setup.sh
+wget https://raw.githubusercontent.com/kooroot/soundness_generator/refs/heads/main/soundness.sh
 ```
 
 2. 실행 권한을 부여합니다:
